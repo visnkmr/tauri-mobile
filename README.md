@@ -1,5 +1,13 @@
 # wry
 
+## Building on linux
+clone
+env vars it uses ANDROID_HOME,NDK_HOME,CARGO_TARGET_DIR, 
+cargo android run
+cd android
+./gradlew assembleDebug
+
+
 ## iOS
 
 Must run Xcode on rosetta. Goto Application > Right Click Xcode > Get Info > Open in Rosetta.
