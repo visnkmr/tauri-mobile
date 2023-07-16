@@ -1,0 +1,5 @@
+[app]
+name = "wfm2"
+stylized-name = "Wfm2"
+domain = "users.noreply.github.com"
+template-pack = "wry"
